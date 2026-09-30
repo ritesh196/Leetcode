@@ -18,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ritesh196/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Concurrency
+|  |
+| ------- |
+| [1195-fizz-buzz-multithreaded](https://github.com/ritesh196/Leetcode/tree/master/1195-fizz-buzz-multithreaded) |
 <!---LeetCode Topics End-->
