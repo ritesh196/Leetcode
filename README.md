@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/ritesh196/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ritesh196/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/ritesh196/Leetcode/tree/master/0044-wildcard-matching) |
 ## Stack
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/ritesh196/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/ritesh196/Leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/ritesh196/Leetcode/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/ritesh196/Leetcode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/ritesh196/Leetcode/tree/master/0049-group-anagrams) |
 ## String Matching
 |  |
@@ -125,4 +127,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/ritesh196/Leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/ritesh196/Leetcode/tree/master/0049-group-anagrams) |
+## Greedy
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/ritesh196/Leetcode/tree/master/0044-wildcard-matching) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/ritesh196/Leetcode/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
