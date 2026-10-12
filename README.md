@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/ritesh196/Leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/ritesh196/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ritesh196/Leetcode/tree/master/0049-group-anagrams) |
+| [0068-text-justification](https://github.com/ritesh196/Leetcode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/ritesh196/Leetcode/tree/master/0073-set-matrix-zeroes) |
 ## Binary Search
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ritesh196/Leetcode/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/ritesh196/Leetcode/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/ritesh196/Leetcode/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/ritesh196/Leetcode/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/ritesh196/Leetcode/tree/master/0076-minimum-window-substring) |
 ## String Matching
 |  |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/ritesh196/Leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/ritesh196/Leetcode/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/ritesh196/Leetcode/tree/master/0068-text-justification) |
 ## Sorting
 |  |
 | ------- |
