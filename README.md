@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/ritesh196/Leetcode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/ritesh196/Leetcode/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/ritesh196/Leetcode/tree/master/0065-valid-number) |
+| [0067-add-binary](https://github.com/ritesh196/Leetcode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/ritesh196/Leetcode/tree/master/0076-minimum-window-substring) |
 ## String Matching
 |  |
@@ -125,10 +126,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/ritesh196/Leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/ritesh196/Leetcode/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/ritesh196/Leetcode/tree/master/0067-add-binary) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/ritesh196/Leetcode/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/ritesh196/Leetcode/tree/master/0067-add-binary) |
 ## Sorting
 |  |
 | ------- |
@@ -142,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/ritesh196/Leetcode/tree/master/0044-wildcard-matching) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/ritesh196/Leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
