@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ritesh196/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ritesh196/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ritesh196/Leetcode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/ritesh196/Leetcode/tree/master/0056-merge-intervals) |
 | [0068-text-justification](https://github.com/ritesh196/Leetcode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/ritesh196/Leetcode/tree/master/0073-set-matrix-zeroes) |
 ## Binary Search
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/ritesh196/Leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/ritesh196/Leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/ritesh196/Leetcode/tree/master/0056-merge-intervals) |
 ## Greedy
 |  |
 | ------- |
@@ -168,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ritesh196/Leetcode/tree/master/0053-maximum-subarray) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/ritesh196/Leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
