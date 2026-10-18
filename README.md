@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ritesh196/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ritesh196/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/ritesh196/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0148-sort-list](https://github.com/ritesh196/Leetcode/tree/master/0148-sort-list) |
 ## Concurrency
 |  |
 | ------- |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ritesh196/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ritesh196/Leetcode/tree/master/0056-merge-intervals) |
 | [0147-insertion-sort-list](https://github.com/ritesh196/Leetcode/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/ritesh196/Leetcode/tree/master/0148-sort-list) |
 ## Greedy
 |  |
 | ------- |
@@ -178,12 +180,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/ritesh196/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0147-insertion-sort-list](https://github.com/ritesh196/Leetcode/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/ritesh196/Leetcode/tree/master/0148-sort-list) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ritesh196/Leetcode/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/ritesh196/Leetcode/tree/master/0148-sort-list) |
 ## Quicksort
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/ritesh196/Leetcode/tree/master/0056-merge-intervals) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/ritesh196/Leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
