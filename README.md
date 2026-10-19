@@ -25,12 +25,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/ritesh196/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0068-text-justification](https://github.com/ritesh196/Leetcode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/ritesh196/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ritesh196/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ritesh196/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ritesh196/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ritesh196/Leetcode/tree/master/0035-search-insert-position) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ritesh196/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/ritesh196/Leetcode/tree/master/0056-merge-intervals) |
 | [0147-insertion-sort-list](https://github.com/ritesh196/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/ritesh196/Leetcode/tree/master/0148-sort-list) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ritesh196/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Greedy
 |  |
 | ------- |
