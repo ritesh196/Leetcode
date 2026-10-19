@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/ritesh196/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0068-text-justification](https://github.com/ritesh196/Leetcode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/ritesh196/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/ritesh196/Leetcode/tree/master/0079-word-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ritesh196/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Binary Search
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ritesh196/Leetcode/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/ritesh196/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/ritesh196/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/ritesh196/Leetcode/tree/master/0079-word-search) |
 ## Backtracking
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/ritesh196/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/ritesh196/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ritesh196/Leetcode/tree/master/0047-permutations-ii) |
+| [0079-word-search](https://github.com/ritesh196/Leetcode/tree/master/0079-word-search) |
 ## Algorithm X
 |  |
 | ------- |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/ritesh196/Leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/ritesh196/Leetcode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/ritesh196/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/ritesh196/Leetcode/tree/master/0079-word-search) |
 ## String Matching
 |  |
 | ------- |
@@ -197,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/ritesh196/Leetcode/tree/master/0148-sort-list) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/ritesh196/Leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
