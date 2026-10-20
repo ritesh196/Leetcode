@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ritesh196/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/ritesh196/Leetcode/tree/master/0079-word-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ritesh196/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3886-sum-of-sortable-integers](https://github.com/ritesh196/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Search
 |  |
 | ------- |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ritesh196/Leetcode/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/ritesh196/Leetcode/tree/master/0060-permutation-sequence) |
 | [0067-add-binary](https://github.com/ritesh196/Leetcode/tree/master/0067-add-binary) |
+| [3886-sum-of-sortable-integers](https://github.com/ritesh196/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Simulation
 |  |
 | ------- |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/ritesh196/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/ritesh196/Leetcode/tree/master/0148-sort-list) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ritesh196/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3886-sum-of-sortable-integers](https://github.com/ritesh196/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Greedy
 |  |
 | ------- |
@@ -209,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/ritesh196/Leetcode/tree/master/0079-word-search) |
+## Enumeration
+|  |
+| ------- |
+| [3886-sum-of-sortable-integers](https://github.com/ritesh196/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 <!---LeetCode Topics End-->
