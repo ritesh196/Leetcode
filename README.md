@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ritesh196/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ritesh196/Leetcode/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/ritesh196/Leetcode/tree/master/0072-edit-distance) |
+| [0087-scramble-string](https://github.com/ritesh196/Leetcode/tree/master/0087-scramble-string) |
 ## Stack
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/ritesh196/Leetcode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/ritesh196/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/ritesh196/Leetcode/tree/master/0079-word-search) |
+| [0087-scramble-string](https://github.com/ritesh196/Leetcode/tree/master/0087-scramble-string) |
 ## String Matching
 |  |
 | ------- |
