@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/ritesh196/Leetcode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/ritesh196/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/ritesh196/Leetcode/tree/master/0079-word-search) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ritesh196/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ritesh196/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3886-sum-of-sortable-integers](https://github.com/ritesh196/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Search
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ritesh196/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ritesh196/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/ritesh196/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ritesh196/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0148-sort-list](https://github.com/ritesh196/Leetcode/tree/master/0148-sort-list) |
 ## Concurrency
 |  |
