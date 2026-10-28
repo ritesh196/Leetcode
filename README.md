@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ritesh196/Leetcode/tree/master/0217-contains-duplicate) |
 | [0274-h-index](https://github.com/ritesh196/Leetcode/tree/master/0274-h-index) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ritesh196/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/ritesh196/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/ritesh196/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Search
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/ritesh196/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/ritesh196/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/ritesh196/Leetcode/tree/master/0079-word-search) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/ritesh196/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Backtracking
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/ritesh196/Leetcode/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/ritesh196/Leetcode/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/ritesh196/Leetcode/tree/master/0091-decode-ways) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/ritesh196/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Stack
 |  |
 | ------- |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/ritesh196/Leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/ritesh196/Leetcode/tree/master/0067-add-binary) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/ritesh196/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Linked List
 |  |
 | ------- |
