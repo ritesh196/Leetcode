@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/ritesh196/Leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/ritesh196/Leetcode/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/ritesh196/Leetcode/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/ritesh196/Leetcode/tree/master/0089-gray-code) |
 ## Algorithm X
 |  |
 | ------- |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ritesh196/Leetcode/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/ritesh196/Leetcode/tree/master/0060-permutation-sequence) |
 | [0067-add-binary](https://github.com/ritesh196/Leetcode/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/ritesh196/Leetcode/tree/master/0089-gray-code) |
 | [3886-sum-of-sortable-integers](https://github.com/ritesh196/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Simulation
 |  |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/ritesh196/Leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/ritesh196/Leetcode/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/ritesh196/Leetcode/tree/master/0089-gray-code) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ritesh196/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ritesh196/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Linked List
