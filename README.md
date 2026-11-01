@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ritesh196/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0217-contains-duplicate](https://github.com/ritesh196/Leetcode/tree/master/0217-contains-duplicate) |
 | [0274-h-index](https://github.com/ritesh196/Leetcode/tree/master/0274-h-index) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ritesh196/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ritesh196/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ritesh196/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ritesh196/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/ritesh196/Leetcode/tree/master/0060-permutation-sequence) |
 | [0067-add-binary](https://github.com/ritesh196/Leetcode/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/ritesh196/Leetcode/tree/master/0089-gray-code) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ritesh196/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [3886-sum-of-sortable-integers](https://github.com/ritesh196/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Simulation
 |  |
