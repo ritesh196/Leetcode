@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/ritesh196/Leetcode/tree/master/0274-h-index) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ritesh196/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ritesh196/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ritesh196/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ritesh196/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ritesh196/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/ritesh196/Leetcode/tree/master/3886-sum-of-sortable-integers) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ritesh196/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ritesh196/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0217-contains-duplicate](https://github.com/ritesh196/Leetcode/tree/master/0217-contains-duplicate) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ritesh196/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Matrix
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/ritesh196/Leetcode/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/ritesh196/Leetcode/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/ritesh196/Leetcode/tree/master/0091-decode-ways) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ritesh196/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ritesh196/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Stack
 |  |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ritesh196/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/ritesh196/Leetcode/tree/master/0076-minimum-window-substring) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ritesh196/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -185,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ritesh196/Leetcode/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/ritesh196/Leetcode/tree/master/0089-gray-code) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ritesh196/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ritesh196/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3886-sum-of-sortable-integers](https://github.com/ritesh196/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Simulation
 |  |
@@ -289,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ritesh196/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ritesh196/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
 |  |
