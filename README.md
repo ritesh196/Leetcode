@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/ritesh196/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/ritesh196/Leetcode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/ritesh196/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/ritesh196/Leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/ritesh196/Leetcode/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/ritesh196/Leetcode/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/ritesh196/Leetcode/tree/master/0091-decode-ways) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/ritesh196/Leetcode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/ritesh196/Leetcode/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/ritesh196/Leetcode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/ritesh196/Leetcode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/ritesh196/Leetcode/tree/master/0089-gray-code) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ritesh196/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ritesh196/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -336,4 +338,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ritesh196/Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ritesh196/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
