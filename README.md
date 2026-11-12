@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1654-minimum-jumps-to-reach-home](https://github.com/ritesh196/Leetcode/tree/master/1654-minimum-jumps-to-reach-home) |
 | [1882-process-tasks-using-servers](https://github.com/ritesh196/Leetcode/tree/master/1882-process-tasks-using-servers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ritesh196/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ritesh196/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ritesh196/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3693-climbing-stairs-ii](https://github.com/ritesh196/Leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ritesh196/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
