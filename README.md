@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/ritesh196/Leetcode/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/ritesh196/Leetcode/tree/master/0093-restore-ip-addresses) |
 | [0127-word-ladder](https://github.com/ritesh196/Leetcode/tree/master/0127-word-ladder) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/ritesh196/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/ritesh196/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ritesh196/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/ritesh196/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/ritesh196/Leetcode/tree/master/0079-word-search) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/ritesh196/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [1267-count-servers-that-communicate](https://github.com/ritesh196/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ritesh196/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Enumeration
@@ -409,4 +411,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ritesh196/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+## Design
+|  |
+| ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/ritesh196/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+## Trie
+|  |
+| ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/ritesh196/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
