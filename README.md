@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ritesh196/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ritesh196/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0148-sort-list](https://github.com/ritesh196/Leetcode/tree/master/0148-sort-list) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/ritesh196/Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Concurrency
 |  |
 | ------- |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/ritesh196/Leetcode/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/ritesh196/Leetcode/tree/master/0091-decode-ways) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ritesh196/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/ritesh196/Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ritesh196/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3693-climbing-stairs-ii](https://github.com/ritesh196/Leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ritesh196/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/ritesh196/Leetcode/tree/master/0127-word-ladder) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ritesh196/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/ritesh196/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/ritesh196/Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ritesh196/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/ritesh196/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ritesh196/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
